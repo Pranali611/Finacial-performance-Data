@@ -1,4 +1,4 @@
-# Finacial-performance-Data
+# Financial-performance-Data
 Finance Report Dashboard
 Hello Everyone,
 I made this Finance Dashboard in Tableau with the Finance Excel Workbook provided by Microsoft
